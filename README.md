@@ -16,8 +16,6 @@ Please go to [releases page](https://github.com/JaredWestley/VirusTotalChecker/r
 #### How to get API key
 It is really simple! All you need to do is to go to [VirusTotal official page](https://www.virustotal.com/), create profile and copy your key.
 
-<img src="asset/api.gif" />
-
 #### How to use
 It is very easy! Select randomise and press set and restart to do a basic HWID spoof, or dive into the advanced menu to spoof HWID with a bunch of different options
 
